@@ -1,0 +1,3 @@
+In order to obtain a high resolution look while using an image with relatively low resolution, I break each pixel into 4 sub pixels and take the average among the subresults. This allows a 2K resolution image(1920x1080) to mimic the looking of a 4K resolution image(3840x2160).
+
+To reproduce the result, simply run ./raytracing ../src/fc.json under the build_release directory. The result image is build_release/rgb.ppm.

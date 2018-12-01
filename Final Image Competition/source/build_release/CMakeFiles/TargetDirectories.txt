@@ -1,0 +1,3 @@
+/Users/zhtdavis/Documents/csc418/source/build_release/CMakeFiles/rebuild_cache.dir
+/Users/zhtdavis/Documents/csc418/source/build_release/CMakeFiles/edit_cache.dir
+/Users/zhtdavis/Documents/csc418/source/build_release/CMakeFiles/raytracing.dir

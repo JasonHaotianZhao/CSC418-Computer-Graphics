@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/rgb_to_hsv.h
+
+/Users/zhtdavis/Documents/csc418/a1/src/rgb_to_hsv.cpp
+rgb_to_hsv.h
+/Users/zhtdavis/Documents/csc418/a1/src/rgb_to_hsv.h
+algorithm
+-
+
